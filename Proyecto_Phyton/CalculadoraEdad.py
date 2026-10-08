@@ -19,7 +19,7 @@ def es_fecha_valida(d, m, a):
 # Código principal
 # REGLA OBLIGATORIA: Cambien el nombre de la salida por el suyo real
 print("=====================================================")
-print("  CALCULADORA EN PYTHON DE: Lucas Del Pino")
+print("  CALCULADORA EN PYTHON DE: Federico Mattia")
 print("=====================================================")
 
 try:
